@@ -1,7 +1,7 @@
 # DFT and IDFT
 
 
-This Notebook is an simple application of  Discrete Fourer Transform.
+This Notebook is a simple application of  Discrete Fourer Transform.
 
 It generates a random signal with $\sum_{i=1}^{3}A_i\sin(2\pi f_i t)$;
 
